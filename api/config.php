@@ -9,7 +9,7 @@ define('DB_SERVER', 'localhost');
 define('DB_USERNAME', 'root');
 define('DB_PASSWORD', '');
 define('DB_DATABASE', 'shop');
-define('BASE_URL', 'http://localhost/ShopingAPI/api/');
+define('BASE_URL', 'http://localhost/myShopingAPI/api/');
 define('SITE_KEY', 'yourSecretKey');
 
 function getDB()
